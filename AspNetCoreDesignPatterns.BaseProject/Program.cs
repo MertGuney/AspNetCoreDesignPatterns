@@ -1,5 +1,9 @@
+using AspNetCoreDesignPatterns.BaseProject.Models;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using System;
@@ -13,7 +17,23 @@ namespace AspNetCoreDesignPatterns.BaseProject
     {
         public static void Main(string[] args)
         {
-            CreateHostBuilder(args).Build().Run();
+            var host = CreateHostBuilder(args).Build();
+
+            using var scope = host.Services.CreateScope();
+            var appIdentityDbContext = scope.ServiceProvider.GetRequiredService<AppIdentityDbContext>(); // AppIdentityDbContext nesne örneði almamýza yarar.
+            var userManager = scope.ServiceProvider.GetRequiredService<UserManager<AppUser>>();// UserManager nesne örneði almamýza yarar.
+            appIdentityDbContext.Database.Migrate();// uygulama ayaða kalktýðýnda migrationlar veritabanýna uygulanmadýysa uygular ve veritabaný yoksa kendisi sýfýrdan oluþturur.
+            if (!userManager.Users.Any())
+            {
+                userManager.CreateAsync(new AppUser()
+                {
+                    UserName = "SuperAdmin",
+                    Email = "SuperAdmin@mail.com"
+                }, "Password*-1").Wait();
+            }
+
+
+            host.Run();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
