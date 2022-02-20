@@ -5,7 +5,6 @@ D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\WebApp.StrategyPattern\bin\De
 D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\WebApp.StrategyPattern\bin\Debug\net5.0\WebApp.StrategyPattern.runtimeconfig.json
 D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\WebApp.StrategyPattern\bin\Debug\net5.0\WebApp.StrategyPattern.runtimeconfig.dev.json
 D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\WebApp.StrategyPattern\bin\Debug\net5.0\WebApp.StrategyPattern.dll
-D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\WebApp.StrategyPattern\bin\Debug\net5.0\ref\WebApp.StrategyPattern.dll
 D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\WebApp.StrategyPattern\bin\Debug\net5.0\WebApp.StrategyPattern.pdb
 D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\WebApp.StrategyPattern\bin\Debug\net5.0\WebApp.StrategyPattern.Views.dll
 D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\WebApp.StrategyPattern\bin\Debug\net5.0\WebApp.StrategyPattern.Views.pdb
@@ -170,3 +169,5 @@ D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\WebApp.StrategyPattern\obj\De
 D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\WebApp.StrategyPattern\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
 D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\WebApp.StrategyPattern\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
 D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\WebApp.StrategyPattern\obj\Debug\net5.0\Razor\Views\Settings\Index.cshtml.g.cs
+D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\WebApp.StrategyPattern\obj\Debug\net5.0\WebApp.StrategyPattern.csproj.AssemblyReference.cache
+D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\WebApp.StrategyPattern\obj\Debug\net5.0\refint\WebApp.StrategyPattern.dll

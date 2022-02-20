@@ -5,7 +5,6 @@ D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\AspNetCoreDesignPatterns.Base
 D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\AspNetCoreDesignPatterns.BaseProject\bin\Debug\net5.0\AspNetCoreDesignPatterns.BaseProject.runtimeconfig.json
 D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\AspNetCoreDesignPatterns.BaseProject\bin\Debug\net5.0\AspNetCoreDesignPatterns.BaseProject.runtimeconfig.dev.json
 D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\AspNetCoreDesignPatterns.BaseProject\bin\Debug\net5.0\AspNetCoreDesignPatterns.BaseProject.dll
-D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\AspNetCoreDesignPatterns.BaseProject\bin\Debug\net5.0\ref\AspNetCoreDesignPatterns.BaseProject.dll
 D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\AspNetCoreDesignPatterns.BaseProject\bin\Debug\net5.0\AspNetCoreDesignPatterns.BaseProject.pdb
 D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\AspNetCoreDesignPatterns.BaseProject\bin\Debug\net5.0\AspNetCoreDesignPatterns.BaseProject.Views.dll
 D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\AspNetCoreDesignPatterns.BaseProject\bin\Debug\net5.0\AspNetCoreDesignPatterns.BaseProject.Views.pdb
@@ -149,3 +148,4 @@ D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\AspNetCoreDesignPatterns.Base
 D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\AspNetCoreDesignPatterns.BaseProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\AspNetCoreDesignPatterns.BaseProject\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
 D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\AspNetCoreDesignPatterns.BaseProject\obj\Debug\net5.0\AspNetCoreDesignPatterns.BaseProject.csproj.AssemblyReference.cache
+D:\Udemy\MyUdemyWorks\Mvc\AspNetCoreDesignPatterns\AspNetCoreDesignPatterns.BaseProject\obj\Debug\net5.0\refint\AspNetCoreDesignPatterns.BaseProject.dll
