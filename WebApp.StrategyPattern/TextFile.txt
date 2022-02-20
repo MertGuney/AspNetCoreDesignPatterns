@@ -1,0 +1,3 @@
+﻿Çözmüş olduğu problem : Runtime esnasında bir objenin davranışını değiştirmemize imkan verir. (örnek-> a-z sırala, z-a sırala,...)
+Run Time:Compile timedan sonra uygulamanın çalışmaya başladığı zamandır.
+Compile Time:Projenin build alana kadar olan geliştirme sürecidir.

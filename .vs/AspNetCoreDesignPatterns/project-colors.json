@@ -5,7 +5,12 @@
       "ProjectGuid": "ab631385-42fb-4f87-b26b-23fee60d7220",
       "DisplayName": "AspNetCoreDesignPatterns.BaseProject",
       "ColorIndex": 0
+    },
+    "6b8471f5-6062-408e-8c57-a098fd4f34b7": {
+      "ProjectGuid": "6b8471f5-6062-408e-8c57-a098fd4f34b7",
+      "DisplayName": "WebApp.StrategyPattern",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
