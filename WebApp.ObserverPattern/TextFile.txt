@@ -1,0 +1,4 @@
+﻿Behavioral category
+Objeler arasında bire-çok bir ilişki tanımlanır.
+Bir objenin durumu değiştiğinde bütün ilişkili olduğu objeler bilgilendirilir.
+Loosely coupled
