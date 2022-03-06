@@ -1,0 +1,3 @@
+﻿Behavioral Category
+Sorumluluk Zinciri Oluşturur.
+Birini takip eden işleri ya handler eder ya da zincirdeki bir sonraki halkaya gönderir.
