@@ -1,0 +1,2 @@
+﻿Structural Category
+Hiyerarşik bir data yapısı oluşturmaya izin vermesidir.
