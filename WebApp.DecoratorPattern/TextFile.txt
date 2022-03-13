@@ -1,0 +1,3 @@
+﻿Structural Category
+Var olan bir objenin yapısını bozmadan genişletmek ve yeni özellikler kazandırmak.
+Bu işlem runtime esnasında gerçekleşmektedir.
