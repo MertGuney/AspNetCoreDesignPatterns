@@ -1,0 +1,2 @@
+﻿Structural Category
+Farklı arayüzleri uyumlu hale getirir
